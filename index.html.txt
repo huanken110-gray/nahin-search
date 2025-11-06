@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="bn">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Nahid Search — Mini Search Engine</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>Nahid Search</h1>
+    <p class="subtitle">কিছু লিখে সার্চ করো — আমি তোমার দেওয়া লিংক দেখাবো</p>
+  </header>
+
+  <main class="container">
+    <div class="search-box">
+      <input id="searchInput" type="search" placeholder="Search... (e.g. facebook, movie, youtube)" autofocus />
+      <select id="categoryFilter">
+        <option value="">All categories</option>
+        <option value="social">Social</option>
+        <option value="movie">Movie</option>
+        <option value="app">App</option>
+        <option value="other">Other</option>
+      </select>
+    </div>
+
+    <div id="resultsInfo" class="info"></div>
+    <ul id="results" class="results"></ul>
+  </main>
+
+  <footer class="footer">
+    <small>Made with ❤️ by Nahid (example). Add/modify entries in <code>scripts.js</code>.</small>
+  </footer>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
+ 
